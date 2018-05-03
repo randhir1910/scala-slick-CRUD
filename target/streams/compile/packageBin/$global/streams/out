@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/randhir/Desktop/scala-program/slick/target/scala-2.12/slick_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/StudTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/StudTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/Application.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/Application.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/Application$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/Application$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/Student$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/Student$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	connection/DbComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/connection/DbComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/Application$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/Application$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/StudentRepoImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/StudentRepoImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/Student.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/Student.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	connection/MysqlDbComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/connection/MysqlDbComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/StudTable$StudentTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/StudTable$StudentTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repository/StudentRepo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/randhir/Desktop/scala-program/slick/target/scala-2.12/classes/repository/StudentRepo.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
